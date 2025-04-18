@@ -10,7 +10,7 @@ PersonalCode 是一个包含多种编程技术实践的代码仓库，主要涵�
 PersonalCode/
 ├── data_analysis/         # 数据分析相关代码
 ├── langchain_dev/         # LangChain 开发相关代码
-├── web_crawler/          # Python 爬虫相关代码
+├── python_crawler/          # Python 爬虫相关代码
 ├── README.md             # 项目说明文件
 └── requirements.txt      # 项目依赖文件
 ```
