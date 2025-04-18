@@ -76,5 +76,5 @@ pip install -r requirements.txt
 ## 联系方式
 
 如有任何问题或建议，请联系项目维护者：
-- 邮箱: [your-email@example.com]
+- 邮箱: [reality534719@gmail.com]
 - GitHub: [xyz-mind]
