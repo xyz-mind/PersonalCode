@@ -8,4 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
-langchiain_dev\.env
+
+
+.env
